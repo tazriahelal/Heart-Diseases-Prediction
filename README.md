@@ -17,8 +17,7 @@ End to end Heart Diseases Prediction Model with webapp using Flask
 # 0. **Introduction** <a class="anchor" id="0"></a>
 "Heart disease is broad term used for diseases and conditions affecting the heart and circulatory system. They are also referred as cardiovascular diseases. There are several different types and forms of heart diseases. The most common ones cause narrowing or blockage of the coronary arteries, malfunctioning in the valves of the heart, enlargement in the size of heart and several others leading to **heart failure** and **heart attack**." [[Source](https://www.indushealthplus.com/heart-diseases.html)]
 
-### If you want to create a project and webapp got the link
-https://github.com/tazriahelal/Heart-Diseases-Prediction
+
 
 <blockquote style="margin-right:auto; margin-left:auto; color:white; background-color: #4e4e4e; padding: 1em; margin:24px;">
 
@@ -40,22 +39,21 @@ This notebook has two main objectives:
 * Explore the heart disease dataset using exploratory data analysis (EDA)
 * Exercise with classification algorithms for prediction (modelling) 
 ---
-
-<a id="top"></a>
+Kaggle Link - [https://www.kaggle.com/code/tazriahelal/heart-diseases-prediction]
 
 ## **Table of Contents**
 
-* [0. Introduction](#0)
-* [1. Exploratory Data Analysis](#1)
-    * [1.0 Load Data](#1.0)
-    * [1.1 Data Dictionary](#1.1)
-    * [1.2 Data Pre-processing](#1.2)
-    * [1.3 Exploring Features](#1.3)
-    * [1.4 Correlations Heatmap](#1.4)
-    * [1.5 EDA Summary](#1.5)
-* [2. Predictions](#2)
-    * [2.1 Scikit Learn Classifiers](#2.1)
-    * [2.2 Catboost, Lgbm and Xgboost](#2.2)
-    * [2.3 Model Explainablity](#2.3)
-* [3. Concluding Remarks](#3)
-* [4. References](#4)
+* 0. Introduction
+* Exploratory Data Analysis
+    * 1.0 Load Data
+    * 1.1 Data Dictionary
+    * 1.2 Data Pre-processing
+    * 1.3 Exploring Features
+    * 1.4 Correlations Heatmap
+    * 1.5 EDA Summary
+* 2. Predictions
+    * 2.1 Scikit Learn Classifiers
+    * 2.2 Catboost, Lgbm and Xgboost
+    * 2.3 Model Explainablity
+* 3. Concluding Remarks
+* 4. References
